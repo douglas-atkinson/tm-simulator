@@ -36,7 +36,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## License
-
 This project is released under the MIT License.
