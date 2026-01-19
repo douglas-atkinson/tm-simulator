@@ -22,3 +22,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Ignore all text and csv files
+*.txt
+*.csv
+
+# But keep requirements.txt
+!requirements.txt
